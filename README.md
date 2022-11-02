@@ -17,7 +17,7 @@ points will be awarded to each player when they are detected
 the points are added to each players total
 
 a press enter prompt will appear then either:
->the next round will begin 
->or the winning player is announced!
+
+the next round will begin or the winning player is announced!
 
 have fun!
