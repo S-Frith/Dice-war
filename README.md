@@ -1,18 +1,23 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+----------------------DICE WAR----------------------
 
-The workspace contains two folders by default, where:
+run the program to play
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+check the point values for each combination of dice rolls
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+choose how many round you want to play in this game
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+the computer will randomly generate 5 dice rolls for the player and a computer opponent 
 
-## Dependency Management
+the computer will also check to see if there are any scoring combinations
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+points will be awarded to each player when they are detected 
+
+the points are added to each players total
+
+a press enter prompt will appear then either:
+>the next round will begin 
+>or the winning player is announced!
+
+have fun!

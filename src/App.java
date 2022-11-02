@@ -22,7 +22,7 @@ public class App {
 
       System.out.println("Fiver = 6 points, \nLarge straight = 5 points, \nFour of a kind = 4 points, \nSmall straight = 3 points, \nFull house = 2 points, \nThree of kind = 1 point, \nAnything else = 0 points! ");
 
-            System.out.println("How many round would you like to play?: ");
+            System.out.println("How many rounds would you like to play?: ");
             int rounds = scan.nextInt();
 
             
